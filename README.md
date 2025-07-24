@@ -5,9 +5,9 @@ This repository contains the completed assignment for the .NET Core Web API usin
 
 ##Files Included
 
-- ShauryaTechOrderAPI.zip → Complete .NET Core Web API project
-- OrderManagementDB.bak`  → SQL Server database backup
-
+- `WebApiProject.zip` → This zip file contains:
+  - `ShauryaTechOrderAPI` → Complete .NET Core Web API project using ADO.NET
+  - `OrderManagementDB.bak` → SQL Server database backup file
 
 ##Setup Instructions
 
