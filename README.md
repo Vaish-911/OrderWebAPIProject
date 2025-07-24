@@ -15,7 +15,7 @@ This repository contains the completed assignment for the .NET Core Web API usin
 2. Open the solution in Visual Studio 2022
 3. Update the connection string in `appsettings.json`
 4. Restore the `.bak` file using SQL Server
-5. Run the project and test the API using Postman
+5. Run the project and test the API
 
 ##Features
 
